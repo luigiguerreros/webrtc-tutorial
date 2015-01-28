@@ -1,3 +1,5 @@
+http://blog.felixhagspiel.de/index.php/posts/create-your-own-videochat-application-with-html-and-javascript
+
 # WebRTC-Tutorial
 ---
 
